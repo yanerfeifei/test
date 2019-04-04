@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mmednet-thyroid-webplatform:war">
+    <output-path>$PROJECT_DIR$/../aon/mmednet-thyroid-webplatform/target</output-path>
+    <root id="archive" name="mmednet-thyroid-webplatform.war">
+      <element id="artifact" artifact-name="mmednet-thyroid-webplatform:war exploded" />
+    </root>
+  </artifact>
+</component>
